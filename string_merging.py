@@ -1,3 +1,4 @@
+# Merging string like: 'aaaaabbbccn' to the string like: 'a5b3c2n1'
 gene = input()
 gene.lower()
 gene += '@'
