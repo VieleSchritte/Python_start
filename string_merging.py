@@ -1,3 +1,4 @@
+#'aaaaabbbbccdd' => 'a5b4c2d2'
 gene = input()
 gene.lower()
 gene += '@'
