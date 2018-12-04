@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Merging string like: 'aaaaabbbccn' to the string like: 'a5b3c2n1'
+=======
+#'aaaaabbbbccdd' => 'a5b4c2d2'
+>>>>>>> 7a8e023cc3d40e214b4bb0ab27cc8d02c165ec84
 gene = input()
 gene.lower()
 gene += '@'
